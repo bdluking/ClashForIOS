@@ -1,2 +1,2 @@
 # ClashForIOS
-coming
+Coming Soon
